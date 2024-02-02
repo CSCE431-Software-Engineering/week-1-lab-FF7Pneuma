@@ -1,0 +1,34 @@
+
+---
+ar_internal_metadata:
+  columns:
+  - key
+  - value
+  - created_at
+  - updated_at
+  records: 
+  - - environment
+    - development
+    - 2024-01-30 01:52:27.346413000 Z
+    - 2024-01-30 01:52:27.346413000 Z
+
+---
+books:
+  columns:
+  - id
+  - title
+  - created_at
+  - updated_at
+  records: 
+  - - 1
+    - Here is a new book
+    - 2024-01-30 01:57:57.398370000 Z
+    - 2024-01-30 01:57:57.398370000 Z
+  - - 3
+    - Excited for Spring 2024
+    - 2024-01-30 02:43:27.152466000 Z
+    - 2024-01-30 02:43:27.152466000 Z
+  - - 5
+    - Theory of Everything
+    - 2024-01-30 03:00:42.446737000 Z
+    - 2024-01-30 03:00:42.446737000 Z
